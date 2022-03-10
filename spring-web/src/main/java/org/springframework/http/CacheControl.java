@@ -23,7 +23,7 @@ import org.springframework.lang.Nullable;
 import org.springframework.util.StringUtils;
 
 /**
- * A builder for creating "Cache-Control" HTTP response headers.
+ * A builder for creating "Cache-Control" HTTP response headers.11
  *
  * <p>Adding Cache-Control directives to HTTP responses can significantly improve the client
  * experience when interacting with a web application. This builder creates opinionated
